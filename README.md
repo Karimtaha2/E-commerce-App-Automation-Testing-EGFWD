@@ -23,7 +23,7 @@
 #### SC2- User could log in with valid email and password
 #### SC3- User could reset his/her password successfully
 `** Note ** in this case you just need to confirm that this message is displayed "Email with instructions has been sent to you."`
-#### SC4- Logged User could search for any product
+#### SC4- Logged User could search for any product using name & SKU
 #### SC5- Logged User could switch between currencies US-Euro
 #### SC6- Logged user could select different Categories
 `** Note ** Select random category then hover and open sub-Category if found*`
