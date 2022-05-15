@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="D:/My Life/Testing Track ITI 3-months/That's My Automation Project/E-Commerce-App-Automation-Testing">
+        <classes>
+            <class name="Runner.RunTest"></class>
+        </classes>
+    </test>
+</suite>
