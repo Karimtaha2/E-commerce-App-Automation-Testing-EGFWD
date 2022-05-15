@@ -6,7 +6,7 @@ Feature: Switch between currencies
     Given open home page again
       And user navigates to home page
 
-  Scenario: Logged User  could switch between currencies US-Euro
+  Scenario: Guest User  could switch between currencies US-Euro
 
     When user could select from currency dropdown list
 

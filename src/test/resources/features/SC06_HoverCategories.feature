@@ -7,7 +7,7 @@ Feature: Categories
     Given open home page again
       And user navigates to home page
 
-  Scenario: Logged user could select different Categories
+  Scenario: Guest user could select different Categories
 
     Given user select random category
 
