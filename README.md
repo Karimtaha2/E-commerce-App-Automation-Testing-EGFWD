@@ -14,9 +14,8 @@
 #### **User Interface/Client side:** To perform specified Business operations:
 
 - Customer Registration, Customer Login,
-- View Products, Product Search, Advanced Search
-- Shopping Cart (Add Product/s, Update Quantity, Remove Product)
-- Checkout (Change Address, Add Comments, Payment Method, Edit Details, Order Confirmation)
+- View Products, Product Search
+- Shopping Cart (Add Product/s)
 
 ## **Test Scenarios:**
 #### SC1- User could register with valid data
